@@ -4,7 +4,7 @@ We have considered 20 documents from each of five classes of newsgroup20
 We have removed stop words,lemmatized the data and vectorized the words using Word2Vec
 and applied K means,Louvain,Infomap,Fastgreedy algorithms and checked the validity of clusters using Davies Bouldin and Dunn index
 
-First, we have formed a vocabulary from 100 Newsgroup Document after performing basic Pre-processing i.e., Stop Word Removal and Stemming (Porter Stemmer).
+First, we have formed a vocabulary from 100 Newsgroup Documents after performing basic Pre-processing i.e., Stop Word Removal and Stemming (Porter Stemmer).
 
 
 Then we have used Word2Vec to transform each word into a 4-dimensional vector.
