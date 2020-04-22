@@ -16,3 +16,12 @@ We have transformed each document into a 100-dimensional vector where each dimen
 
 On this data we have performed different Clustering Algorithms
 
+We have directly applied K-Means using Euclidean Distance as measure.
+
+But to implement Infomap, Louvain we have used a GML converter.
+
+We have found the distance between each of the documents.
+
+Taking average of distance as threshold we have formed a graph.
+
+The input to the GML converter is the graph formed.
