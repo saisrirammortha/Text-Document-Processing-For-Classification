@@ -26,6 +26,6 @@ Taking average of distance as threshold we have formed a graph.
 
 The input to the GML converter is the graph formed.
 
-###Issues
+### Issues
 
 This was the code return in the initial stages of my coding.It's not organized.That's why i just explained the steps i have followed
