@@ -16,4 +16,4 @@
 
 ### Issues
 
-This was the code return in the initial stages of my coding.It's not organized.That's why i just explained the steps i have followed
+This was the code written in the initial stages of my coding.It's not organized.That's why i just explained the steps i have followed
